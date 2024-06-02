@@ -7,22 +7,22 @@ global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
 global.location = 'Srilanka Colombo'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
+global.author = 'DJ DELBOY ANIEY MD';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
+    botAdmin: '`I am not an admin!hey beche ramai vako`',
+    owner: '`You are not my owner zidhoddhi`',
     group: '`You can use this command only in groups ❌`',
-    private: '`Feature is used only for private chats!`',
+    private: '`Feature is used onlyadmin for private chats!`',
     bot: '`Bot number user special features`',
     wait: '*Processing Your request*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['254 773 440758'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
 SESSION_ID: process.env.SESSION_ID || 'youre session id',
