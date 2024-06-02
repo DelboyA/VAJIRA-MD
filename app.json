@@ -1,15 +1,15 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "DJ DELBOY ANIEY MD 👑",
   "description": "QUEEN-DEW has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
-  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
+  "logo": "https://telegram.org/dl.jpg",
+  "keywords": ["DJ DELBOY", "bot", "whatsapp bot", "multi device", "vajira-md"],
   "success_url": "/",
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=iUtkRKLC#IJ8hR6PMJaEdMtRhtsUqyiD_fw4zQxsfUash7w55wEY",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=iUtkRKLC#IJ8hR6PMJaEdMtRhtsUqyiD_fw4zQxsfUash7w55wEY"
         },
         "PREFIX": {
             "description": "put prefix here",
@@ -28,17 +28,17 @@
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "254 773 440758"
         },
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "https://telegram.org/dl.jpg"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
